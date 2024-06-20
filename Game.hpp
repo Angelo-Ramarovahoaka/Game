@@ -7,6 +7,6 @@ class Game
         virtual void play()=0;
         virtual void restart()=0;
         virtual void quit()=0;
-        virtual void pause()=0;
+        // virtual void pause()=0;
 };
 #endif

@@ -3,7 +3,7 @@
 #include "Game.hpp"
 #include <string>
 using namespace std;
-class Fish
+class Fish:public Game
 {
     protected:
         bool go;
